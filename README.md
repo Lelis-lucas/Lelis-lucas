@@ -3,9 +3,9 @@
 ###
 
 <p align="left">Junior Industrial Automation Technician | Python and IoT | Seeking Global Impact <br><br>🔧 Technical Skills:
-  <br>[Python]<br>
-  [PLC]<br>
-  <br>[Arduino]<br>🚀 What I’m Looking For:<br>An opportunity to grow as an Automation Technician, working with industrial technology, process optimization, and intelligent automation.<br><br>📩 Open to networking and job opportunities in automation, industrial technology, and IoT applications.</p>
+  <br>- [Python]<br>
+  - [PLC]<br>
+  - [Arduino]<br>🚀 What I’m Looking For:<br>An opportunity to grow as an Automation Technician, working with industrial technology, process optimization, and intelligent automation.<br><br>📩 Open to networking and job opportunities in automation, industrial technology, and IoT applications.</p>
 
 ###
 
