@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Junior Industrial Automation Technician with a strong interest in control systems, IoT, and industrial technology. I have hands-on experience with Python, Raspberry Pi, and automation protocols (Modbus TCP/IP), and I'm continuously improving my skills in industrial systems and data-driven automation.<br><br>🔧 Technical Skills:<br>Programming: Python (automation, data handling, and industrial communication).<br>Industrial Systems: Basic knowledge of PLCs, sensors, and control circuits.<br>IoT & Hardware: Raspberry Pi, electronics, and embedded systems.<br><br>🚀 What I’m Looking For:<br>An opportunity to grow as an Automation Technician, working with industrial technology, process optimization, and intelligent automation.<br><br>📩 Open to networking and job opportunities in automation, industrial technology, and IoT applications.</p>
+<p align="left">Junior Industrial Automation Technician | Python and IoT | Seeking Global Impact <br><br>🔧 Technical Skills:
+  <br>[Python]<br>
+  [PLC]<br>
+  <br>[Arduino]<br>🚀 What I’m Looking For:<br>An opportunity to grow as an Automation Technician, working with industrial technology, process optimization, and intelligent automation.<br><br>📩 Open to networking and job opportunities in automation, industrial technology, and IoT applications.</p>
 
 ###
 
@@ -53,3 +56,5 @@
 </div>
 
 ###
+
+
